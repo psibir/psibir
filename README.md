@@ -3,7 +3,7 @@
 
 - 💻 All of my projects are available at [https://github.com/psibir](https://github.com/psibir)
 
-- 📝 I regularly write articles on [https://psibir.github.io/](https://psibir.github.io/)
+- 📝 I regularly write articles at [https://psibir.github.io/](https://psibir.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
