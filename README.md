@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🖖, I'm Trevor Bloomfield</h1>
+<h1 align="center"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psibir&label=Profile%20views&color=0e75b6&style=flat" alt="psibir" /> </p>
 
 - 💻 All of my projects are available at [https://github.com/psibir](https://github.com/psibir)
