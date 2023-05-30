@@ -1,4 +1,4 @@
-<h1 align="center"></h1>
+<h1 align="center">🖖 Hello, I am Trevor</h1>
 
 - 💻 All of my projects are available at [https://github.com/psibir](https://github.com/psibir)
 
