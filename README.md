@@ -1,6 +1,6 @@
 <h1 align="center">🖖 Hello, I am Trevor</h1>
 
-- 💻 Source code for projects are available in my [GitHub repo]([https://github.com/psibir](https://github.com/psibir?tab=repositories))
+- 💻 Source code for projects are available in my [GitHub repo](https://github.com/psibir?tab=repositories)
 
 - 📝 I regularly write articles on my blog at [https://psibir.github.io/](https://psibir.github.io/)
 
